@@ -1,5 +1,5 @@
 # JavaScript
 
-Repositório de estudos relacionados a tecnologia JavaScript.
+Repositório de estudos relacionado a tecnologia JavaScript.
 
 Hitalo Dantas"
